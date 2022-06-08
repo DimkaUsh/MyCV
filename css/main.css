@@ -117,6 +117,10 @@ section {
   width: 50px;
 }
 
+.header__logo img {
+  width: 100%;
+}
+
 .header__wrapper {
   background: var(--main-color);
   position: relative;
